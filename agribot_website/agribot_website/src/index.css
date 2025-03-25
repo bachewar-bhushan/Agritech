@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  
+}
+.skiptranslate { display: none !important; }
+body { top: 0px !important; }
+

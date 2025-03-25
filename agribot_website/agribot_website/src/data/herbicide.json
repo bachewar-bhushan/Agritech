@@ -1,0 +1,758 @@
+[
+    {
+        "Herbicide":"Carfentrazone-ethyl 40% DF",
+        "Dosage\/ha a.i. (g,kg)":"20 g",
+        "Average Dosage\/ha Formulation (g,mL)":"50 g",
+        "Dilution in Water (L)":"400",
+        "Waiting Period (days)":"80"
+    },
+    {
+        "Herbicide":"Clodinafop-propargyl 15% WP",
+        "Dosage\/ha a.i. (g,kg)":"60 g",
+        "Average Dosage\/ha Formulation (g,mL)":"400 g",
+        "Dilution in Water (L)":"375-400",
+        "Waiting Period (days)":"110"
+    },
+    {
+        "Herbicide":"2,4-D dimethyl amine salt 58% SL",
+        "Dosage\/ha a.i. (g,kg)":"0.50-0.75 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1.075 kg",
+        "Dilution in Water (L)":"500-600",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"2,4-D sodium salt technical 80% w\/w",
+        "Dosage\/ha a.i. (g,kg)":"0.5-0.84 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"0.81 kg",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"90"
+    },
+    {
+        "Herbicide":"2,4-D ethyl ester 38% EC",
+        "Dosage\/ha a.i. (g,kg)":"0.45-0.75 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1.76 L",
+        "Dilution in Water (L)":"450-500",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Diclofop-methyl 28% EC",
+        "Dosage\/ha a.i. (g,kg)":"0.7-1.0 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"3.0 L",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"90"
+    },
+    {
+        "Herbicide":"Fenoxaprop-P-ethyl 10% EC",
+        "Dosage\/ha a.i. (g,kg)":"100-120 g",
+        "Average Dosage\/ha Formulation (g,mL)":"1.10 L",
+        "Dilution in Water (L)":"250-300",
+        "Waiting Period (days)":"110"
+    },
+    {
+        "Herbicide":"Isoproturon 50% WP",
+        "Dosage\/ha a.i. (g,kg)":"1.0 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.0 kg",
+        "Dilution in Water (L)":"750",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Isoproturon 75% WP",
+        "Dosage\/ha a.i. (g,kg)":"1.0 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1.33 kg",
+        "Dilution in Water (L)":"750",
+        "Waiting Period (days)":"60"
+    },
+    {
+        "Herbicide":"MCPA, amine salt 40% WSC",
+        "Dosage\/ha a.i. (g,kg)":"1.0 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.5 kg",
+        "Dilution in Water (L)":"300-600",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Methabenzthiazuron 70% WP",
+        "Dosage\/ha a.i. (g,kg)":"1.05-1.40 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1.75 kg",
+        "Dilution in Water (L)":"700-1000",
+        "Waiting Period (days)":"100"
+    },
+    {
+        "Herbicide":"Methabenzthiazuron 70% WP",
+        "Dosage\/ha a.i. (g,kg)":"1.05-1.75 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.25 kg",
+        "Dilution in Water (L)":"700-1000",
+        "Waiting Period (days)":"100"
+    },
+    {
+        "Herbicide":"Methabenzthiazuron 70% WP",
+        "Dosage\/ha a.i. (g,kg)":"0.70-0.87 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1.125 kg",
+        "Dilution in Water (L)":"700-1000",
+        "Waiting Period (days)":"100"
+    },
+    {
+        "Herbicide":"Metribuzin 70% WP",
+        "Dosage\/ha a.i. (g,kg)":"0.175-0.21 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"0.275 kg",
+        "Dilution in Water (L)":"500-750",
+        "Waiting Period (days)":"120"
+    },
+    {
+        "Herbicide":"Metsulfuron-methyl 20% WP",
+        "Dosage\/ha a.i. (g,kg)":"4 g",
+        "Average Dosage\/ha Formulation (g,mL)":"20 g",
+        "Dilution in Water (L)":"500-600 + surfactant",
+        "Waiting Period (days)":"80"
+    },
+    {
+        "Herbicide":"Metsulfuron-methyl 20% WG",
+        "Dosage\/ha a.i. (g,kg)":"4 g",
+        "Average Dosage\/ha Formulation (g,mL)":"20 g",
+        "Dilution in Water (L)":"500-600 + surfactant",
+        "Waiting Period (days)":"76"
+    },
+    {
+        "Herbicide":"Pendimethalin 30% EC",
+        "Dosage\/ha a.i. (g,kg)":"1.0-1.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"4.2 L",
+        "Dilution in Water (L)":"500-700",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Pinoxaden 5.1% EC",
+        "Dosage\/ha a.i. (g,kg)":"40-45 g",
+        "Average Dosage\/ha Formulation (g,mL)":"850 mL",
+        "Dilution in Water (L)":"225-300",
+        "Waiting Period (days)":"90"
+    },
+    {
+        "Herbicide":"Paraquat dichloride 24% SL",
+        "Dosage\/ha a.i. (g,kg)":"1.0 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"4.25 L",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"120-150"
+    },
+    {
+        "Herbicide":"Sulfosulfuron 75% WG",
+        "Dosage\/ha a.i. (g,kg)":"25 g",
+        "Average Dosage\/ha Formulation (g,mL)":"33.3 g",
+        "Dilution in Water (L)":"200-250 + surfactant",
+        "Waiting Period (days)":"110"
+    },
+    {
+        "Herbicide":"Triallate 50% EC",
+        "Dosage\/ha a.i. (g,kg)":"1.25 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.5 kg",
+        "Dilution in Water (L)":"250-500",
+        "Waiting Period (days)":"150"
+    },
+    {
+        "Herbicide":"Clodinafop-propargyl 15% + Metsulfuron-methyl 1% WP",
+        "Dosage\/ha a.i. (g,kg)":"60+4 g",
+        "Average Dosage\/ha Formulation (g,mL)":"400 g",
+        "Dilution in Water (L)":"375 (Add 1250 mL surfactant)",
+        "Waiting Period (days)":"100"
+    },
+    {
+        "Herbicide":"Fenoxaprop-P-ethyl 7.77% + Metribuzin 13.6% EC",
+        "Dosage\/ha a.i. (g,kg)":"100+175 g",
+        "Average Dosage\/ha Formulation (g,mL)":"1250 g",
+        "Dilution in Water (L)":"375",
+        "Waiting Period (days)":"110"
+    },
+    {
+        "Herbicide":"Mesosulfuron-methyl 3% + Iodosulfuron-methyl sodium 0.6% WG",
+        "Dosage\/ha a.i. (g,kg)":"12+2.4 g",
+        "Average Dosage\/ha Formulation (g,mL)":"400 g",
+        "Dilution in Water (L)":"400-500 + surfactant",
+        "Waiting Period (days)":"96"
+    },
+    {
+        "Herbicide":"Sulfosulfuron 75% + Metsulfuron-methyl 5% WG",
+        "Dosage\/ha a.i. (g,kg)":"30+2 g",
+        "Average Dosage\/ha Formulation (g,mL)":"40 g",
+        "Dilution in Water (L)":"250-500 + surfactant",
+        "Waiting Period (days)":"110"
+    },
+    {
+        "Herbicide":"Anilofos 30% EC",
+        "Dosage\/ha a.i. (g,kg)":"0.3-0.45 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1.5 L",
+        "Dilution in Water (L)":"375-500",
+        "Waiting Period (days)":"30"
+    },
+    {
+        "Herbicide":"Anilofos 2% Gr",
+        "Dosage\/ha a.i. (g,kg)":"0.4-0.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"20-25 kg",
+        "Dilution in Water (L)":"-",
+        "Waiting Period (days)":"30"
+    },
+    {
+        "Herbicide":"Azimsulfuron 50% DF",
+        "Dosage\/ha a.i. (g,kg)":"35 g",
+        "Average Dosage\/ha Formulation (g,mL)":"70 g",
+        "Dilution in Water (L)":"300",
+        "Waiting Period (days)":"59"
+    },
+    {
+        "Herbicide":"Bensulfuron-methyl 60% DF",
+        "Dosage\/ha a.i. (g,kg)":"60 g",
+        "Average Dosage\/ha Formulation (g,mL)":"100 g",
+        "Dilution in Water (L)":"300",
+        "Waiting Period (days)":"88"
+    },
+    {
+        "Herbicide":"Bensulfuron-methyl 60% DF",
+        "Dosage\/ha a.i. (g,kg)":"60 g",
+        "Average Dosage\/ha Formulation (g,mL)":"100 g",
+        "Dilution in Water (L)":"300",
+        "Waiting Period (days)":"71"
+    },
+    {
+        "Herbicide":"Bispyribac-sodium 10% SC",
+        "Dosage\/ha a.i. (g,kg)":"20 g",
+        "Average Dosage\/ha Formulation (g,mL)":"200 mL",
+        "Dilution in Water (L)":"300",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Bispyribac-sodium 10% SC",
+        "Dosage\/ha a.i. (g,kg)":"20 g",
+        "Average Dosage\/ha Formulation (g,mL)":"200 mL",
+        "Dilution in Water (L)":"300",
+        "Waiting Period (days)":"78"
+    },
+    {
+        "Herbicide":"Butachlor 50% EC",
+        "Dosage\/ha a.i. (g,kg)":"1.25-2.00 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.5-4 L",
+        "Dilution in Water (L)":"250-500",
+        "Waiting Period (days)":"90-120"
+    },
+    {
+        "Herbicide":"Butachlor 5% Gr",
+        "Dosage\/ha a.i. (g,kg)":"1.25-2.0 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"25-40 kg",
+        "Dilution in Water (L)":"-",
+        "Waiting Period (days)":"90-120"
+    },
+    {
+        "Herbicide":"Butachlor 50% EW",
+        "Dosage\/ha a.i. (g,kg)":"1.25-1.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.5-3.0 L",
+        "Dilution in Water (L)":"250-500",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Chlorimuron-ethyl 25% WP",
+        "Dosage\/ha a.i. (g,kg)":"6 g",
+        "Average Dosage\/ha Formulation (g,mL)":"24 g",
+        "Dilution in Water (L)":"500-600",
+        "Waiting Period (days)":"60"
+    },
+    {
+        "Herbicide":"Cimmerhylin 10% EC",
+        "Dosage\/ha a.i. (g,kg)":"75-100 g",
+        "Average Dosage\/ha Formulation (g,mL)":"0.75-1.0 L",
+        "Dilution in Water (L)":"500-700",
+        "Waiting Period (days)":"110"
+    },
+    {
+        "Herbicide":"Clomazone 50% EC",
+        "Dosage\/ha a.i. (g,kg)":"0.4-0.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"0.8-1.0 L",
+        "Dilution in Water (L)":"500-750",
+        "Waiting Period (days)":"90"
+    },
+    {
+        "Herbicide":"Cyhalofop-butyl 10% EC",
+        "Dosage\/ha a.i. (g,kg)":"75-80 g",
+        "Average Dosage\/ha Formulation (g,mL)":"0.75-0.80 L",
+        "Dilution in Water (L)":"500-600",
+        "Waiting Period (days)":"90"
+    },
+    {
+        "Herbicide":"2,4-D ethyl ester 38% EC",
+        "Dosage\/ha a.i. (g,kg)":"0.85 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.5 L",
+        "Dilution in Water (L)":"400",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"2,4-D ethyl ester 4.5% Gr",
+        "Dosage\/ha a.i. (g,kg)":"1.0 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"25 kg",
+        "Dilution in Water (L)":"-",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Ethoxysulfuron 15% WDG",
+        "Dosage\/ha a.i. (g,kg)":"12.5-15 g",
+        "Average Dosage\/ha Formulation (g,mL)":"83.3-100 g",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"110"
+    },
+    {
+        "Herbicide":"Fenoxaprop-P-ethyl 9.3% w\/w EC",
+        "Dosage\/ha a.i. (g,kg)":"56.25 g",
+        "Average Dosage\/ha Formulation (g,mL)":"625 mL",
+        "Dilution in Water (L)":"300-375",
+        "Waiting Period (days)":"70"
+    },
+    {
+        "Herbicide":"Fenoxaprop-P-ethyl 6.7% w\/w EC",
+        "Dosage\/ha a.i. (g,kg)":"56.6-60.38 g",
+        "Average Dosage\/ha Formulation (g,mL)":"812.5-875 mL",
+        "Dilution in Water (L)":"375-500",
+        "Waiting Period (days)":"61"
+    },
+    {
+        "Herbicide":"MCPA, amine salt 40% WSC",
+        "Dosage\/ha a.i. (g,kg)":"0.8-2.0 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2-5 kg",
+        "Dilution in Water (L)":"400-600",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Metsulfuron-methyl 20% WP",
+        "Dosage\/ha a.i. (g,kg)":"4 g",
+        "Average Dosage\/ha Formulation (g,mL)":"20 g",
+        "Dilution in Water (L)":"500-600",
+        "Waiting Period (days)":"60"
+    },
+    {
+        "Herbicide":"Metsulfuron-methyl 20% WG",
+        "Dosage\/ha a.i. (g,kg)":"4 g",
+        "Average Dosage\/ha Formulation (g,mL)":"20 g",
+        "Dilution in Water (L)":"500-600 + surfactant",
+        "Waiting Period (days)":"71"
+    },
+    {
+        "Herbicide":"Orthosulfamuron 50% WG",
+        "Dosage\/ha a.i. (g,kg)":"60-75 g",
+        "Average Dosage\/ha Formulation (g,mL)":"120-150 g",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"65"
+    },
+    {
+        "Herbicide":"Oxadiazon 80% WP",
+        "Dosage\/ha a.i. (g,kg)":"100 g",
+        "Average Dosage\/ha Formulation (g,mL)":"0.125 kg",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"97"
+    },
+    {
+        "Herbicide":"Oxadiazon 6% EC",
+        "Dosage\/ha a.i. (g,kg)":"100 g",
+        "Average Dosage\/ha Formulation (g,mL)":"1.66 L",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"97"
+    },
+    {
+        "Herbicide":"Oxadiazon 25% EC",
+        "Dosage\/ha a.i. (g,kg)":"0.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.0 L",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Oxyfluorfen 0.35% Gr",
+        "Dosage\/ha a.i. (g,kg)":"100-150 g",
+        "Average Dosage\/ha Formulation (g,mL)":"30-40 kg",
+        "Dilution in Water (L)":"-",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Oxyfluorfen 23.5% EC",
+        "Dosage\/ha a.i. (g,kg)":"150-240 g",
+        "Average Dosage\/ha Formulation (g,mL)":"650-1000 mL",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Pendimethalin 30% EC",
+        "Dosage\/ha a.i. (g,kg)":"Light soil-1.0 kg Medium soil-1.25 kg Heavy soil-1.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"Light soil-3.3 L Medium soil-4.2 L Heavy soil-5.0 L",
+        "Dilution in Water (L)":"500-700",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Pendimethalin 5% Gr",
+        "Dosage\/ha a.i. (g,kg)":"1.0-1.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"20-30 kg",
+        "Dilution in Water (L)":"-",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Pretilachlor 37% EW",
+        "Dosage\/ha a.i. (g,kg)":"0.60-0.75 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1.5-1.875 L",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"90"
+    },
+    {
+        "Herbicide":"Pretilachlor 30.7% EC",
+        "Dosage\/ha a.i. (g,kg)":"0.45-0.60 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1.5-2.0 L",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"110"
+    },
+    {
+        "Herbicide":"Pretilachlor 50% EC",
+        "Dosage\/ha a.i. (g,kg)":"0.50-0.75 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1.0-1.5 L",
+        "Dilution in Water (L)":"500-700",
+        "Waiting Period (days)":"75-90"
+    },
+    {
+        "Herbicide":"Paraquat dichloride 24% SL",
+        "Dosage\/ha a.i. (g,kg)":"0.3-0.8 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1.25-3.5 L",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"N.A."
+    },
+    {
+        "Herbicide":"Pyrazosulfuron-ethyl 10% WP",
+        "Dosage\/ha a.i. (g,kg)":"10-15 g",
+        "Average Dosage\/ha Formulation (g,mL)":"100-150 g",
+        "Dilution in Water (L)":"500-600",
+        "Waiting Period (days)":"95"
+    },
+    {
+        "Herbicide":"Anilofos 24% + 2,4-D ethyl ester 32% EC",
+        "Dosage\/ha a.i. (g,kg)":"(0.24+0.32) to (0.36+0.48) kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1-1.5 L",
+        "Dilution in Water (L)":"300",
+        "Waiting Period (days)":"90"
+    },
+    {
+        "Herbicide":"Bensulfuron-methyl 0.6% + Pretilachlor 6% Gr",
+        "Dosage\/ha a.i. (g,kg)":"60 + 600 g",
+        "Average Dosage\/ha Formulation (g,mL)":"10 kg",
+        "Dilution in Water (L)":"-",
+        "Waiting Period (days)":"88"
+    },
+    {
+        "Herbicide":"Clomazone 20% + 2,4-D ethyl ester 30% EC",
+        "Dosage\/ha a.i. (g,kg)":"0.250-0.375 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1.25 L",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"100-110"
+    },
+    {
+        "Herbicide":"Metsulfuron-methyl 10% + Chlorimuron-ethyl 10% WP",
+        "Dosage\/ha a.i. (g,kg)":"4 g",
+        "Average Dosage\/ha Formulation (g,mL)":"20 g",
+        "Dilution in Water (L)":"300",
+        "Waiting Period (days)":"90"
+    },
+    {
+        "Herbicide":"Alachlor 50% EC",
+        "Dosage\/ha a.i. (g,kg)":"2-2.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"4-5 L",
+        "Dilution in Water (L)":"250-500",
+        "Waiting Period (days)":"210-240"
+    },
+    {
+        "Herbicide":"Alachlor 10% Gr",
+        "Dosage\/ha a.i. (g,kg)":"2.0-2.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"20-25 kg",
+        "Dilution in Water (L)":"-",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Diuron 80% WP",
+        "Dosage\/ha a.i. (g,kg)":"0.75-1.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1-2.2 kg",
+        "Dilution in Water (L)":"625",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Fenoxaprop-P-ethyl 9.3% w\/w EC",
+        "Dosage\/ha a.i. (g,kg)":"67.5 g",
+        "Average Dosage\/ha Formulation (g,mL)":"750 mL",
+        "Dilution in Water (L)":"375-500",
+        "Waiting Period (days)":"87"
+    },
+    {
+        "Herbicide":"Fluchloralin 45% EC",
+        "Dosage\/ha a.i. (g,kg)":"0.9-1.2 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.0-2.68 L",
+        "Dilution in Water (L)":"500-800",
+        "Waiting Period (days)":"180"
+    },
+    {
+        "Herbicide":"Glufosinate-ammonium 13.5% SL",
+        "Dosage\/ha a.i. (g,kg)":"375-450 g",
+        "Average Dosage\/ha Formulation (g,mL)":"2.5-3.0 L",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"96"
+    },
+    {
+        "Herbicide":"Pendimethalin 30% EC",
+        "Dosage\/ha a.i. (g,kg)":"0.75-1.25 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.5-4.165 L",
+        "Dilution in Water (L)":"500-700",
+        "Waiting Period (days)":"150"
+    },
+    {
+        "Herbicide":"Pyrithiobac-sodium 10% EC",
+        "Dosage\/ha a.i. (g,kg)":"62.5-75 g",
+        "Average Dosage\/ha Formulation (g,mL)":"625-750 mL",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"160"
+    },
+    {
+        "Herbicide":"Quizalofop-ethyl 5% EC",
+        "Dosage\/ha a.i. (g,kg)":"50.5 g",
+        "Average Dosage\/ha Formulation (g,mL)":"1000 g",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"94"
+    },
+    {
+        "Herbicide":"Alachlor 50% EC",
+        "Dosage\/ha a.i. (g,kg)":"2.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"5 L",
+        "Dilution in Water (L)":"250-500",
+        "Waiting Period (days)":"90"
+    },
+    {
+        "Herbicide":"Alachlor 10% Gr",
+        "Dosage\/ha a.i. (g,kg)":"1.5-2.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"15-25 kg",
+        "Dilution in Water (L)":"-",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Atrazine 50% WP",
+        "Dosage\/ha a.i. (g,kg)":"0.5-1.0 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1-2 kg",
+        "Dilution in Water (L)":"500-700",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"2,4-D dimethyl amine salt 58% SL",
+        "Dosage\/ha a.i. (g,kg)":"0.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"0.86 L",
+        "Dilution in Water (L)":"400-500",
+        "Waiting Period (days)":"50-60"
+    },
+    {
+        "Herbicide":"2,4-D sodium salt technical (80% w\/w)",
+        "Dosage\/ha a.i. (g,kg)":"1.00 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1.25 kg",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"120 (pre-em) 90 (post-em)"
+    },
+    {
+        "Herbicide":"2,4-D ethyl ester 38% EC",
+        "Dosage\/ha a.i. (g,kg)":"0.9 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.65 L",
+        "Dilution in Water (L)":"400-450",
+        "Waiting Period (days)":"50-60"
+    },
+    {
+        "Herbicide":"Diuron 80% WP",
+        "Dosage\/ha a.i. (g,kg)":"0.8 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1.0 kg",
+        "Dilution in Water (L)":"600",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Paraquat dichloride 24% SL",
+        "Dosage\/ha a.i. (g,kg)":"0.2-0.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"0.8-2.0 L",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"90-120"
+    },
+    {
+        "Herbicide":"Paraquat (post-em directed)",
+        "Dosage\/ha a.i. (g,kg)":"0.2-0.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"0.8-2.0 L",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"90-120"
+    },
+    {
+        "Herbicide":"Alachlor 50% EC",
+        "Dosage\/ha a.i. (g,kg)":"2.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"5 L",
+        "Dilution in Water (L)":"250-500",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Anilofos 30% EC",
+        "Dosage\/ha a.i. (g,kg)":"1.25-1.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"4.20-5.0 L",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"100-120"
+    },
+    {
+        "Herbicide":"Chlorimuron-ethyl 25% WP",
+        "Dosage\/ha a.i. (g,kg)":"9 g",
+        "Average Dosage\/ha Formulation (g,mL)":"36 g",
+        "Dilution in Water (L)":"300 L + surfactant 0.2%",
+        "Waiting Period (days)":"45"
+    },
+    {
+        "Herbicide":"Clomazone 50% EC",
+        "Dosage\/ha a.i. (g,kg)":"0.75-1.00 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"1.5-2.0 L",
+        "Dilution in Water (L)":"500-600",
+        "Waiting Period (days)":"90"
+    },
+    {
+        "Herbicide":"Fenoxaprop-P-ethyl 9.3% w\/w EC",
+        "Dosage\/ha a.i. (g,kg)":"100 g",
+        "Average Dosage\/ha Formulation (g,mL)":"1111 mL",
+        "Dilution in Water (L)":"250-300",
+        "Waiting Period (days)":"100"
+    },
+    {
+        "Herbicide":"Fluazifop-P-butyl 13.4% EC",
+        "Dosage\/ha a.i. (g,kg)":"125-250 g",
+        "Average Dosage\/ha Formulation (g,mL)":"1000-2000 mL",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"90"
+    },
+    {
+        "Herbicide":"Fluchloralin 45% EC",
+        "Dosage\/ha a.i. (g,kg)":"1.0-1.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.22-3.33 L",
+        "Dilution in Water (L)":"500-800",
+        "Waiting Period (days)":"120-150"
+    },
+    {
+        "Herbicide":"Imazethapyr 10% SL",
+        "Dosage\/ha a.i. (g,kg)":"100 g",
+        "Average Dosage\/ha Formulation (g,mL)":"1.0 L",
+        "Dilution in Water (L)":"500-600",
+        "Waiting Period (days)":"75"
+    },
+    {
+        "Herbicide":"Metolachlor 50% EC",
+        "Dosage\/ha a.i. (g,kg)":"1.0 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.0 L",
+        "Dilution in Water (L)":"600-750",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Metribuzin 70% WP",
+        "Dosage\/ha a.i. (g,kg)":"0.35-0.525 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"0.5-0.75 kg",
+        "Dilution in Water (L)":"750-1000",
+        "Waiting Period (days)":"30"
+    },
+    {
+        "Herbicide":"Pendimethalin 30% EC",
+        "Dosage\/ha a.i. (g,kg)":"0.75-1.0 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.5-3.3 L",
+        "Dilution in Water (L)":"500-700",
+        "Waiting Period (days)":"110"
+    },
+    {
+        "Herbicide":"Pendimethalin 38.7% CS",
+        "Dosage\/ha a.i. (g,kg)":"580.5-677.25 g",
+        "Average Dosage\/ha Formulation (g,mL)":"1500-1750 mL",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"40"
+    },
+    {
+        "Herbicide":"Propaguizafop 10% EC",
+        "Dosage\/ha a.i. (g,kg)":"50-75 g",
+        "Average Dosage\/ha Formulation (g,mL)":"500-750 mL",
+        "Dilution in Water (L)":"500-750",
+        "Waiting Period (days)":"21"
+    },
+    {
+        "Herbicide":"Quizalofop-ethyl 5% EC",
+        "Dosage\/ha a.i. (g,kg)":"37.5-50 g",
+        "Average Dosage\/ha Formulation (g,mL)":"0.75-1.0 L",
+        "Dilution in Water (L)":"500-600",
+        "Waiting Period (days)":"95"
+    },
+    {
+        "Herbicide":"Quizalofop-P-tefuryl 4.41% EC",
+        "Dosage\/ha a.i. (g,kg)":"30-40 g",
+        "Average Dosage\/ha Formulation (g,mL)":"750-1000 mL",
+        "Dilution in Water (L)":"400",
+        "Waiting Period (days)":"30"
+    },
+    {
+        "Herbicide":"Imazamox 35% + Imazethapyr 35% WG",
+        "Dosage\/ha a.i. (g,kg)":"70 g",
+        "Average Dosage\/ha Formulation (g,mL)":"100 g",
+        "Dilution in Water (L)":"375-500 + surfactant (Cyspread) @ 1.5ml\/litre of water + Ammonium sulphate @ 2.0 gm\/litre of water",
+        "Waiting Period (days)":"56"
+    },
+    {
+        "Herbicide":"Pendimethalin 30% + Imazethapyr 2% EC",
+        "Dosage\/ha a.i. (g,kg)":"(750+50) to (900+60) g",
+        "Average Dosage\/ha Formulation (g,mL)":"2.5-3.0 L",
+        "Dilution in Water (L)":"500-600",
+        "Waiting Period (days)":"90"
+    },
+    {
+        "Herbicide":"2,4-D dimethyl amine salt 58% SL",
+        "Dosage\/ha a.i. (g,kg)":"3.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"6.3 L",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"2,4-D sodium salt technical (having 2,4-D acid 80% w\/w)",
+        "Dosage\/ha a.i. (g,kg)":"2.0-2.6 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.5-3.25 kg",
+        "Dilution in Water (L)":"600-900",
+        "Waiting Period (days)":"300"
+    },
+    {
+        "Herbicide":"2,4-D ethyl ester 38% EC",
+        "Dosage\/ha a.i. (g,kg)":"1.2-1.8 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"3.53-5.29 L",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"300-330"
+    },
+    {
+        "Herbicide":"Diuron 80% WP",
+        "Dosage\/ha a.i. (g,kg)":"1.6-3.2 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.0-4.0 kg",
+        "Dilution in Water (L)":"600",
+        "Waiting Period (days)":"-"
+    },
+    {
+        "Herbicide":"Metribuzin 70% WP",
+        "Dosage\/ha a.i. (g,kg)":"6 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"30 kg",
+        "Dilution in Water (L)":"500-600 + (non-ionic surfactant Iso-octyl phenoxy1-poloxethanol 12.5% @ 2mL per liter of spray volume (0.2%))",
+        "Waiting Period (days)":"346"
+    },
+    {
+        "Herbicide":"Hexazinone 13.2% + Diuron 46.8% WP",
+        "Dosage\/ha a.i. (g,kg)":"(264+936) g",
+        "Average Dosage\/ha Formulation (g,mL)":"2 kg",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"282-306"
+    },
+    {
+        "Herbicide":"Glufosinate-ammonium 13.5% SL",
+        "Dosage\/ha a.i. (g,kg)":"0.375-0.500 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.5-3.3 L",
+        "Dilution in Water (L)":"375-500",
+        "Waiting Period (days)":"15"
+    },
+    {
+        "Herbicide":"Glyphosate IPA salt 41% SL",
+        "Dosage\/ha a.i. (g,kg)":"0.820-1.230 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"2.0-3.0 L",
+        "Dilution in Water (L)":"450",
+        "Waiting Period (days)":"21"
+    },
+    {
+        "Herbicide":"Glyphosate ammonium salt 5% SL",
+        "Dosage\/ha a.i. (g,kg)":"1.5 kg",
+        "Average Dosage\/ha Formulation (g,mL)":"30 L",
+        "Dilution in Water (L)":"500",
+        "Waiting Period (days)":"7"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "Service Name": "Heat Wave Portal: Weather Reports, Telangana",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTE0MDc=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "This service gives complete information on the prevailing weather conditions in the state. The vision of the Disaster Management Wing is to build a safe and disaster resilient state through a comprehensive, pro-active, sustainable and technology driven strategy that is highly inclusive of all the stakeholders and builds a culture of caution, preparedness, and mitigation.",
+        "More Info Link": "https://services.india.gov.in/service/detail/heat-wave-portal-weather-reports-telangana"
+    },
+    {
+        "Service Name": "Guideline for Distribution of Tractor units under Chief Minister Samarga Gramya Unnayan Yojana, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTc5ODM=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Distribution of Tractor Units Under Chief Minister Samarga Gramya Unnayan Yojana from Agriculture Department. This is a G2C service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/guideline-for-distribution-of-tractor-units-under-chief-minister-samarga-gramya-unnayan-yojana-assam"
+    },
+    {
+        "Service Name": "Search Agriculture Warehouses in Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNA==",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Search agriculture warehouses in Karnataka. Users need to select a category such as state, centre, private, rural godown to find a list of warehouses. Information such as warehouse name, capacity, address, phone numbers etc. is available.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-agriculture-warehouses-in-karnataka-1"
+    },
+    {
+        "Service Name": "Apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjMzNDc=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares from Directorate of Geology and Mining. This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-execution-of-permit-granted-for-area-less-than-5-five-hectares-assam-1"
+    },
+    {
+        "Service Name": "Apply for Manufacturing License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0Mzk=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Manufacturing License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-manufacturing-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Retail Sale License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDA=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Retail Sale License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-retail-sale-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDE=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-changing-the-address-of-plant-protection-chemicals-officego-down-of-the-firm-assam-1"
+    },
+    {
+        "Service Name": "Apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDI=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-no-objection-certificate-for-manufacturing-of-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Search Office Bearers of Agricultural Market Committees of Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNQ==",
+        "Maturity Level": "Informational",
+        "Star Rating": "80%;",
+        "Description": "Search details of office bearers of agricultural market committees of Karnataka. One can select a market and get information related to the members, contact numbers, emails etc. Users can search details of committees by the chairman or vice-chairman.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-office-bearers-of-agricultural-market-committees-of-karnataka"
+    },
+    {
+        "Service Name": "Animal Husbandry schemes application registered, Gujarat",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTcyNjI=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Farmers/Beneficiaries of Animal Husbandry etc can apply online on this portal. The workflow based application processing by respective nodal office. This service is available for specific period of time.",
+        "More Info Link": "https://services.india.gov.in/service/detail/animal-husbandry-schemes-application-registered-gujarat"
+    },
+    {
+        "Service Name": "Heat Wave Portal: Weather Reports, Telangana",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTE0MDc=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "This service gives complete information on the prevailing weather conditions in the state. The vision of the Disaster Management Wing is to build a safe and disaster resilient state through a comprehensive, pro-active, sustainable and technology driven strategy that is highly inclusive of all the stakeholders and builds a culture of caution, preparedness, and mitigation.",
+        "More Info Link": "https://services.india.gov.in/service/detail/heat-wave-portal-weather-reports-telangana"
+    },
+    {
+        "Service Name": "Guideline for Distribution of Tractor units under Chief Minister Samarga Gramya Unnayan Yojana, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTc5ODM=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Distribution of Tractor Units Under Chief Minister Samarga Gramya Unnayan Yojana from Agriculture Department. This is a G2C service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/guideline-for-distribution-of-tractor-units-under-chief-minister-samarga-gramya-unnayan-yojana-assam"
+    },
+    {
+        "Service Name": "Search Agriculture Warehouses in Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNA==",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Search agriculture warehouses in Karnataka. Users need to select a category such as state, centre, private, rural godown to find a list of warehouses. Information such as warehouse name, capacity, address, phone numbers etc. is available.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-agriculture-warehouses-in-karnataka-1"
+    },
+    {
+        "Service Name": "Apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjMzNDc=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares from Directorate of Geology and Mining. This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-execution-of-permit-granted-for-area-less-than-5-five-hectares-assam-1"
+    },
+    {
+        "Service Name": "Apply for Manufacturing License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0Mzk=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Manufacturing License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-manufacturing-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Retail Sale License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDA=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Retail Sale License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-retail-sale-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDE=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-changing-the-address-of-plant-protection-chemicals-officego-down-of-the-firm-assam-1"
+    },
+    {
+        "Service Name": "Apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDI=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-no-objection-certificate-for-manufacturing-of-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Search Office Bearers of Agricultural Market Committees of Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNQ==",
+        "Maturity Level": "Informational",
+        "Star Rating": "80%;",
+        "Description": "Search details of office bearers of agricultural market committees of Karnataka. One can select a market and get information related to the members, contact numbers, emails etc. Users can search details of committees by the chairman or vice-chairman.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-office-bearers-of-agricultural-market-committees-of-karnataka"
+    },
+    {
+        "Service Name": "Animal Husbandry schemes application registered, Gujarat",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTcyNjI=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Farmers/Beneficiaries of Animal Husbandry etc can apply online on this portal. The workflow based application processing by respective nodal office. This service is available for specific period of time.",
+        "More Info Link": "https://services.india.gov.in/service/detail/animal-husbandry-schemes-application-registered-gujarat"
+    },
+    {
+        "Service Name": "Heat Wave Portal: Weather Reports, Telangana",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTE0MDc=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "This service gives complete information on the prevailing weather conditions in the state. The vision of the Disaster Management Wing is to build a safe and disaster resilient state through a comprehensive, pro-active, sustainable and technology driven strategy that is highly inclusive of all the stakeholders and builds a culture of caution, preparedness, and mitigation.",
+        "More Info Link": "https://services.india.gov.in/service/detail/heat-wave-portal-weather-reports-telangana"
+    },
+    {
+        "Service Name": "Guideline for Distribution of Tractor units under Chief Minister Samarga Gramya Unnayan Yojana, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTc5ODM=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Distribution of Tractor Units Under Chief Minister Samarga Gramya Unnayan Yojana from Agriculture Department. This is a G2C service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/guideline-for-distribution-of-tractor-units-under-chief-minister-samarga-gramya-unnayan-yojana-assam"
+    },
+    {
+        "Service Name": "Search Agriculture Warehouses in Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNA==",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Search agriculture warehouses in Karnataka. Users need to select a category such as state, centre, private, rural godown to find a list of warehouses. Information such as warehouse name, capacity, address, phone numbers etc. is available.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-agriculture-warehouses-in-karnataka-1"
+    },
+    {
+        "Service Name": "Apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjMzNDc=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares from Directorate of Geology and Mining. This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-execution-of-permit-granted-for-area-less-than-5-five-hectares-assam-1"
+    },
+    {
+        "Service Name": "Apply for Manufacturing License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0Mzk=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Manufacturing License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-manufacturing-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Retail Sale License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDA=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Retail Sale License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-retail-sale-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDE=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-changing-the-address-of-plant-protection-chemicals-officego-down-of-the-firm-assam-1"
+    },
+    {
+        "Service Name": "Apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDI=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-no-objection-certificate-for-manufacturing-of-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Search Office Bearers of Agricultural Market Committees of Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNQ==",
+        "Maturity Level": "Informational",
+        "Star Rating": "80%;",
+        "Description": "Search details of office bearers of agricultural market committees of Karnataka. One can select a market and get information related to the members, contact numbers, emails etc. Users can search details of committees by the chairman or vice-chairman.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-office-bearers-of-agricultural-market-committees-of-karnataka"
+    },
+    {
+        "Service Name": "Animal Husbandry schemes application registered, Gujarat",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTcyNjI=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Farmers/Beneficiaries of Animal Husbandry etc can apply online on this portal. The workflow based application processing by respective nodal office. This service is available for specific period of time.",
+        "More Info Link": "https://services.india.gov.in/service/detail/animal-husbandry-schemes-application-registered-gujarat"
+    },
+    {
+        "Service Name": "Heat Wave Portal: Weather Reports, Telangana",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTE0MDc=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "This service gives complete information on the prevailing weather conditions in the state. The vision of the Disaster Management Wing is to build a safe and disaster resilient state through a comprehensive, pro-active, sustainable and technology driven strategy that is highly inclusive of all the stakeholders and builds a culture of caution, preparedness, and mitigation.",
+        "More Info Link": "https://services.india.gov.in/service/detail/heat-wave-portal-weather-reports-telangana"
+    },
+    {
+        "Service Name": "Guideline for Distribution of Tractor units under Chief Minister Samarga Gramya Unnayan Yojana, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTc5ODM=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Distribution of Tractor Units Under Chief Minister Samarga Gramya Unnayan Yojana from Agriculture Department. This is a G2C service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/guideline-for-distribution-of-tractor-units-under-chief-minister-samarga-gramya-unnayan-yojana-assam"
+    },
+    {
+        "Service Name": "Search Agriculture Warehouses in Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNA==",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Search agriculture warehouses in Karnataka. Users need to select a category such as state, centre, private, rural godown to find a list of warehouses. Information such as warehouse name, capacity, address, phone numbers etc. is available.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-agriculture-warehouses-in-karnataka-1"
+    },
+    {
+        "Service Name": "Apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjMzNDc=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares from Directorate of Geology and Mining. This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-execution-of-permit-granted-for-area-less-than-5-five-hectares-assam-1"
+    },
+    {
+        "Service Name": "Apply for Manufacturing License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0Mzk=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Manufacturing License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-manufacturing-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Retail Sale License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDA=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Retail Sale License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-retail-sale-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDE=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-changing-the-address-of-plant-protection-chemicals-officego-down-of-the-firm-assam-1"
+    },
+    {
+        "Service Name": "Apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDI=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-no-objection-certificate-for-manufacturing-of-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Search Office Bearers of Agricultural Market Committees of Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNQ==",
+        "Maturity Level": "Informational",
+        "Star Rating": "80%;",
+        "Description": "Search details of office bearers of agricultural market committees of Karnataka. One can select a market and get information related to the members, contact numbers, emails etc. Users can search details of committees by the chairman or vice-chairman.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-office-bearers-of-agricultural-market-committees-of-karnataka"
+    },
+    {
+        "Service Name": "Animal Husbandry schemes application registered, Gujarat",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTcyNjI=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Farmers/Beneficiaries of Animal Husbandry etc can apply online on this portal. The workflow based application processing by respective nodal office. This service is available for specific period of time.",
+        "More Info Link": "https://services.india.gov.in/service/detail/animal-husbandry-schemes-application-registered-gujarat"
+    },
+    {
+        "Service Name": "Heat Wave Portal: Weather Reports, Telangana",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTE0MDc=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "This service gives complete information on the prevailing weather conditions in the state. The vision of the Disaster Management Wing is to build a safe and disaster resilient state through a comprehensive, pro-active, sustainable and technology driven strategy that is highly inclusive of all the stakeholders and builds a culture of caution, preparedness, and mitigation.",
+        "More Info Link": "https://services.india.gov.in/service/detail/heat-wave-portal-weather-reports-telangana"
+    },
+    {
+        "Service Name": "Guideline for Distribution of Tractor units under Chief Minister Samarga Gramya Unnayan Yojana, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTc5ODM=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Distribution of Tractor Units Under Chief Minister Samarga Gramya Unnayan Yojana from Agriculture Department. This is a G2C service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/guideline-for-distribution-of-tractor-units-under-chief-minister-samarga-gramya-unnayan-yojana-assam"
+    },
+    {
+        "Service Name": "Search Agriculture Warehouses in Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNA==",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Search agriculture warehouses in Karnataka. Users need to select a category such as state, centre, private, rural godown to find a list of warehouses. Information such as warehouse name, capacity, address, phone numbers etc. is available.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-agriculture-warehouses-in-karnataka-1"
+    },
+    {
+        "Service Name": "Apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjMzNDc=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares from Directorate of Geology and Mining. This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-execution-of-permit-granted-for-area-less-than-5-five-hectares-assam-1"
+    },
+    {
+        "Service Name": "Apply for Manufacturing License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0Mzk=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Manufacturing License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-manufacturing-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Retail Sale License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDA=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Retail Sale License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-retail-sale-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDE=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-changing-the-address-of-plant-protection-chemicals-officego-down-of-the-firm-assam-1"
+    },
+    {
+        "Service Name": "Apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDI=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-no-objection-certificate-for-manufacturing-of-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Search Office Bearers of Agricultural Market Committees of Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNQ==",
+        "Maturity Level": "Informational",
+        "Star Rating": "80%;",
+        "Description": "Search details of office bearers of agricultural market committees of Karnataka. One can select a market and get information related to the members, contact numbers, emails etc. Users can search details of committees by the chairman or vice-chairman.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-office-bearers-of-agricultural-market-committees-of-karnataka"
+    },
+    {
+        "Service Name": "Animal Husbandry schemes application registered, Gujarat",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTcyNjI=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Farmers/Beneficiaries of Animal Husbandry etc can apply online on this portal. The workflow based application processing by respective nodal office. This service is available for specific period of time.",
+        "More Info Link": "https://services.india.gov.in/service/detail/animal-husbandry-schemes-application-registered-gujarat"
+    },
+    {
+        "Service Name": "Heat Wave Portal: Weather Reports, Telangana",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTE0MDc=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "This service gives complete information on the prevailing weather conditions in the state. The vision of the Disaster Management Wing is to build a safe and disaster resilient state through a comprehensive, pro-active, sustainable and technology driven strategy that is highly inclusive of all the stakeholders and builds a culture of caution, preparedness, and mitigation.",
+        "More Info Link": "https://services.india.gov.in/service/detail/heat-wave-portal-weather-reports-telangana"
+    },
+    {
+        "Service Name": "Guideline for Distribution of Tractor units under Chief Minister Samarga Gramya Unnayan Yojana, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTc5ODM=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Distribution of Tractor Units Under Chief Minister Samarga Gramya Unnayan Yojana from Agriculture Department. This is a G2C service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/guideline-for-distribution-of-tractor-units-under-chief-minister-samarga-gramya-unnayan-yojana-assam"
+    },
+    {
+        "Service Name": "Search Agriculture Warehouses in Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNA==",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Search agriculture warehouses in Karnataka. Users need to select a category such as state, centre, private, rural godown to find a list of warehouses. Information such as warehouse name, capacity, address, phone numbers etc. is available.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-agriculture-warehouses-in-karnataka-1"
+    },
+    {
+        "Service Name": "Apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjMzNDc=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares from Directorate of Geology and Mining. This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-execution-of-permit-granted-for-area-less-than-5-five-hectares-assam-1"
+    },
+    {
+        "Service Name": "Apply for Manufacturing License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0Mzk=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Manufacturing License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-manufacturing-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Retail Sale License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDA=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Retail Sale License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-retail-sale-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDE=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-changing-the-address-of-plant-protection-chemicals-officego-down-of-the-firm-assam-1"
+    },
+    {
+        "Service Name": "Apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDI=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-no-objection-certificate-for-manufacturing-of-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Search Office Bearers of Agricultural Market Committees of Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNQ==",
+        "Maturity Level": "Informational",
+        "Star Rating": "80%;",
+        "Description": "Search details of office bearers of agricultural market committees of Karnataka. One can select a market and get information related to the members, contact numbers, emails etc. Users can search details of committees by the chairman or vice-chairman.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-office-bearers-of-agricultural-market-committees-of-karnataka"
+    },
+    {
+        "Service Name": "Animal Husbandry schemes application registered, Gujarat",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTcyNjI=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Farmers/Beneficiaries of Animal Husbandry etc can apply online on this portal. The workflow based application processing by respective nodal office. This service is available for specific period of time.",
+        "More Info Link": "https://services.india.gov.in/service/detail/animal-husbandry-schemes-application-registered-gujarat"
+    },
+    {
+        "Service Name": "Heat Wave Portal: Weather Reports, Telangana",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTE0MDc=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "This service gives complete information on the prevailing weather conditions in the state. The vision of the Disaster Management Wing is to build a safe and disaster resilient state through a comprehensive, pro-active, sustainable and technology driven strategy that is highly inclusive of all the stakeholders and builds a culture of caution, preparedness, and mitigation.",
+        "More Info Link": "https://services.india.gov.in/service/detail/heat-wave-portal-weather-reports-telangana"
+    },
+    {
+        "Service Name": "Guideline for Distribution of Tractor units under Chief Minister Samarga Gramya Unnayan Yojana, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTc5ODM=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Distribution of Tractor Units Under Chief Minister Samarga Gramya Unnayan Yojana from Agriculture Department. This is a G2C service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/guideline-for-distribution-of-tractor-units-under-chief-minister-samarga-gramya-unnayan-yojana-assam"
+    },
+    {
+        "Service Name": "Search Agriculture Warehouses in Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNA==",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Search agriculture warehouses in Karnataka. Users need to select a category such as state, centre, private, rural godown to find a list of warehouses. Information such as warehouse name, capacity, address, phone numbers etc. is available.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-agriculture-warehouses-in-karnataka-1"
+    },
+    {
+        "Service Name": "Apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjMzNDc=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares from Directorate of Geology and Mining. This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-execution-of-permit-granted-for-area-less-than-5-five-hectares-assam-1"
+    },
+    {
+        "Service Name": "Apply for Manufacturing License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0Mzk=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Manufacturing License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-manufacturing-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Retail Sale License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDA=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Retail Sale License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-retail-sale-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDE=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-changing-the-address-of-plant-protection-chemicals-officego-down-of-the-firm-assam-1"
+    },
+    {
+        "Service Name": "Apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDI=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-no-objection-certificate-for-manufacturing-of-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Search Office Bearers of Agricultural Market Committees of Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNQ==",
+        "Maturity Level": "Informational",
+        "Star Rating": "80%;",
+        "Description": "Search details of office bearers of agricultural market committees of Karnataka. One can select a market and get information related to the members, contact numbers, emails etc. Users can search details of committees by the chairman or vice-chairman.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-office-bearers-of-agricultural-market-committees-of-karnataka"
+    },
+    {
+        "Service Name": "Animal Husbandry schemes application registered, Gujarat",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTcyNjI=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Farmers/Beneficiaries of Animal Husbandry etc can apply online on this portal. The workflow based application processing by respective nodal office. This service is available for specific period of time.",
+        "More Info Link": "https://services.india.gov.in/service/detail/animal-husbandry-schemes-application-registered-gujarat"
+    },
+    {
+        "Service Name": "Heat Wave Portal: Weather Reports, Telangana",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTE0MDc=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "This service gives complete information on the prevailing weather conditions in the state. The vision of the Disaster Management Wing is to build a safe and disaster resilient state through a comprehensive, pro-active, sustainable and technology driven strategy that is highly inclusive of all the stakeholders and builds a culture of caution, preparedness, and mitigation.",
+        "More Info Link": "https://services.india.gov.in/service/detail/heat-wave-portal-weather-reports-telangana"
+    },
+    {
+        "Service Name": "Guideline for Distribution of Tractor units under Chief Minister Samarga Gramya Unnayan Yojana, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTc5ODM=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Distribution of Tractor Units Under Chief Minister Samarga Gramya Unnayan Yojana from Agriculture Department. This is a G2C service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/guideline-for-distribution-of-tractor-units-under-chief-minister-samarga-gramya-unnayan-yojana-assam"
+    },
+    {
+        "Service Name": "Search Agriculture Warehouses in Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNA==",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Search agriculture warehouses in Karnataka. Users need to select a category such as state, centre, private, rural godown to find a list of warehouses. Information such as warehouse name, capacity, address, phone numbers etc. is available.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-agriculture-warehouses-in-karnataka-1"
+    },
+    {
+        "Service Name": "Apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjMzNDc=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares from Directorate of Geology and Mining. This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-execution-of-permit-granted-for-area-less-than-5-five-hectares-assam-1"
+    },
+    {
+        "Service Name": "Apply for Manufacturing License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0Mzk=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Manufacturing License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-manufacturing-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Retail Sale License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDA=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Retail Sale License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-retail-sale-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDE=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-changing-the-address-of-plant-protection-chemicals-officego-down-of-the-firm-assam-1"
+    },
+    {
+        "Service Name": "Apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDI=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-no-objection-certificate-for-manufacturing-of-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Search Office Bearers of Agricultural Market Committees of Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNQ==",
+        "Maturity Level": "Informational",
+        "Star Rating": "80%;",
+        "Description": "Search details of office bearers of agricultural market committees of Karnataka. One can select a market and get information related to the members, contact numbers, emails etc. Users can search details of committees by the chairman or vice-chairman.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-office-bearers-of-agricultural-market-committees-of-karnataka"
+    },
+    {
+        "Service Name": "Animal Husbandry schemes application registered, Gujarat",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTcyNjI=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Farmers/Beneficiaries of Animal Husbandry etc can apply online on this portal. The workflow based application processing by respective nodal office. This service is available for specific period of time.",
+        "More Info Link": "https://services.india.gov.in/service/detail/animal-husbandry-schemes-application-registered-gujarat"
+    },
+    {
+        "Service Name": "Heat Wave Portal: Weather Reports, Telangana",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTE0MDc=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "This service gives complete information on the prevailing weather conditions in the state. The vision of the Disaster Management Wing is to build a safe and disaster resilient state through a comprehensive, pro-active, sustainable and technology driven strategy that is highly inclusive of all the stakeholders and builds a culture of caution, preparedness, and mitigation.",
+        "More Info Link": "https://services.india.gov.in/service/detail/heat-wave-portal-weather-reports-telangana"
+    },
+    {
+        "Service Name": "Guideline for Distribution of Tractor units under Chief Minister Samarga Gramya Unnayan Yojana, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTc5ODM=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Distribution of Tractor Units Under Chief Minister Samarga Gramya Unnayan Yojana from Agriculture Department. This is a G2C service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/guideline-for-distribution-of-tractor-units-under-chief-minister-samarga-gramya-unnayan-yojana-assam"
+    },
+    {
+        "Service Name": "Search Agriculture Warehouses in Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNA==",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Search agriculture warehouses in Karnataka. Users need to select a category such as state, centre, private, rural godown to find a list of warehouses. Information such as warehouse name, capacity, address, phone numbers etc. is available.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-agriculture-warehouses-in-karnataka-1"
+    },
+    {
+        "Service Name": "Apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjMzNDc=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares from Directorate of Geology and Mining. This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-execution-of-permit-granted-for-area-less-than-5-five-hectares-assam-1"
+    },
+    {
+        "Service Name": "Apply for Manufacturing License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0Mzk=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Manufacturing License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-manufacturing-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Retail Sale License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDA=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Retail Sale License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-retail-sale-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDE=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-changing-the-address-of-plant-protection-chemicals-officego-down-of-the-firm-assam-1"
+    },
+    {
+        "Service Name": "Apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDI=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-no-objection-certificate-for-manufacturing-of-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Search Office Bearers of Agricultural Market Committees of Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNQ==",
+        "Maturity Level": "Informational",
+        "Star Rating": "80%;",
+        "Description": "Search details of office bearers of agricultural market committees of Karnataka. One can select a market and get information related to the members, contact numbers, emails etc. Users can search details of committees by the chairman or vice-chairman.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-office-bearers-of-agricultural-market-committees-of-karnataka"
+    },
+    {
+        "Service Name": "Animal Husbandry schemes application registered, Gujarat",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTcyNjI=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Farmers/Beneficiaries of Animal Husbandry etc can apply online on this portal. The workflow based application processing by respective nodal office. This service is available for specific period of time.",
+        "More Info Link": "https://services.india.gov.in/service/detail/animal-husbandry-schemes-application-registered-gujarat"
+    },
+    {
+        "Service Name": "Heat Wave Portal: Weather Reports, Telangana",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTE0MDc=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "This service gives complete information on the prevailing weather conditions in the state. The vision of the Disaster Management Wing is to build a safe and disaster resilient state through a comprehensive, pro-active, sustainable and technology driven strategy that is highly inclusive of all the stakeholders and builds a culture of caution, preparedness, and mitigation.",
+        "More Info Link": "https://services.india.gov.in/service/detail/heat-wave-portal-weather-reports-telangana"
+    },
+    {
+        "Service Name": "Guideline for Distribution of Tractor units under Chief Minister Samarga Gramya Unnayan Yojana, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTc5ODM=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Distribution of Tractor Units Under Chief Minister Samarga Gramya Unnayan Yojana from Agriculture Department. This is a G2C service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/guideline-for-distribution-of-tractor-units-under-chief-minister-samarga-gramya-unnayan-yojana-assam"
+    },
+    {
+        "Service Name": "Search Agriculture Warehouses in Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNA==",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Search agriculture warehouses in Karnataka. Users need to select a category such as state, centre, private, rural godown to find a list of warehouses. Information such as warehouse name, capacity, address, phone numbers etc. is available.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-agriculture-warehouses-in-karnataka-1"
+    },
+    {
+        "Service Name": "Apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjMzNDc=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Execution of Permit Granted for Area Less than 5 (Five) Hectares from Directorate of Geology and Mining. This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-execution-of-permit-granted-for-area-less-than-5-five-hectares-assam-1"
+    },
+    {
+        "Service Name": "Apply for Manufacturing License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0Mzk=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Manufacturing License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-manufacturing-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Retail Sale License for Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDA=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "60%;",
+        "Description": "This service is to apply for Retail Sale License for Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-retail-sale-license-for-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDE=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for Changing The Address of Plant Protection Chemicals Office/Go-Down of the Firm from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-changing-the-address-of-plant-protection-chemicals-officego-down-of-the-firm-assam-1"
+    },
+    {
+        "Service Name": "Apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals, Assam",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MjM0NDI=",
+        "Maturity Level": "Fully Online",
+        "Star Rating": "80%;",
+        "Description": "This service is to apply for No Objection Certificate for Manufacturing of Plant Protection Chemicals from Directorate of Agriculture (Directorate of Agriculture - HQ Agriculture). This is a G2B service. Applicants need to register to apply for this service. Institutions can apply for this service.",
+        "More Info Link": "https://services.india.gov.in/service/detail/apply-for-no-objection-certificate-for-manufacturing-of-plant-protection-chemicals-assam-1"
+    },
+    {
+        "Service Name": "Search Office Bearers of Agricultural Market Committees of Karnataka",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTEyNQ==",
+        "Maturity Level": "Informational",
+        "Star Rating": "80%;",
+        "Description": "Search details of office bearers of agricultural market committees of Karnataka. One can select a market and get information related to the members, contact numbers, emails etc. Users can search details of committees by the chairman or vice-chairman.",
+        "More Info Link": "https://services.india.gov.in/service/detail/search-office-bearers-of-agricultural-market-committees-of-karnataka"
+    },
+    {
+        "Service Name": "Animal Husbandry schemes application registered, Gujarat",
+        "Service Link": "https://services.india.gov.in/service/service_url_redirect?id=MTcyNjI=",
+        "Maturity Level": "Informational",
+        "Star Rating": "60%;",
+        "Description": "Farmers/Beneficiaries of Animal Husbandry etc can apply online on this portal. The workflow based application processing by respective nodal office. This service is available for specific period of time.",
+        "More Info Link": "https://services.india.gov.in/service/detail/animal-husbandry-schemes-application-registered-gujarat"
+    }
+]

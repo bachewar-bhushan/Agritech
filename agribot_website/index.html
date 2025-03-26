@@ -5,9 +5,27 @@
     <link rel="icon" type="image/svg+xml" href="/logo.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>AgriTech</title>
+    <style>
+      @media screen and (max-width: 768px) {
+        .engage-chatbot {
+          width: 40% !important;
+          height: 80vh !important;
+          bottom: 10px !important;
+          right: 5px !important;
+        }
+      }
+      
+    </style>
   </head>
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
+    <script type='module'>
+      window.botId =  'e0b84055-fe7b-4073-bc5f-0f612b0a1b55';
+      window.baseUrl = 'https://app.engagebot.works';
+      window.isOpenChat = false;
+      import engage from 'https://app.engagebot.works/api/file/plugin.js';
+      engage();
+    </script>
   </body>
 </html>

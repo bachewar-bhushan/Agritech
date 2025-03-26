@@ -66,7 +66,7 @@ function Home() {
         }}
       >
         <div className="absolute inset-0 bg-black opacity-40"></div>
-        <div className="relative z-10 text-center px-4 sm:px-6 lg:px-8">
+        <div className="relative text-center px-4 sm:px-6 lg:px-8">
           <h1 className="font-black text-3xl sm:text-4xl lg:text-5xl pb-3 text-white font-[DM Sans]">
             Empowering Indian Farmers with Smart Weed Management
           </h1>

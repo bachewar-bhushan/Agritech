@@ -1,6 +1,6 @@
 import React from 'react';
 import { useParams } from "react-router-dom";
-import cropHerbicideData from "../data/crop_herbicide.json";
+import cropHerbicideData from "../data/crop_herbicide_translated.json";
 
 function WeedTable() {
   const { cropName } = useParams();
@@ -24,6 +24,7 @@ function WeedTable() {
                 <th className="px-6 py-3 text-left border-b border-green-300">Weed Species</th>
                 <th className="px-6 py-3 text-left border-b border-green-300">Herbicide</th>
                 <th className="px-6 py-3 text-left border-b border-green-300">Common Name</th>
+                <th className="px-6 py-3 text-left border-b border-green-300">Marathi</th>
               </tr>
             </thead>
             <tbody>
@@ -32,6 +33,7 @@ function WeedTable() {
                   <td className="px-6 py-3 border-b border-green-300">{weed.Weed_Species}</td>
                   <td className="px-6 py-3 border-b border-green-300">{weed.Herbicide}</td>
                   <td className="px-6 py-3 border-b border-green-300">{weed.Common_Name}</td>
+                  <td className="px-6 py-3 border-b border-green-300">{weed.Marathi}</td>
                 </tr>
               ))}
             </tbody>

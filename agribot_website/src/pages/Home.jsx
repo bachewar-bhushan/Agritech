@@ -23,7 +23,7 @@ function Home() {
     {
       img: "img1.jpg",
       title: "AI-Powered Weed Detection Bot",
-      desc: "Find crop-specific weeds",
+      desc: "WeedOBot (A Weed Detection Bot)",
       link: "/hardware",
     },
     {
@@ -38,23 +38,23 @@ function Home() {
       desc: "Stay informed on guidelines",
       link: "/govt-notification",
     },
-    {
-      img: "monitoring.png",
-      title: "Specific Farm Monitoring",
-      desc: "Monitor your farm",
-      link: "Monitoring",
-    },
-    {
-      img: "farm-comm.png",
-      title: "Farmer Community",
-      desc: "Connect & share knowledge",
-      link: "https://example.com/farmer-community",
-      external: true,
-    },
+    // {
+    //   img: "monitoring.png",
+    //   title: "Specific Farm Monitoring",
+    //   desc: "Monitor your farm",
+    //   link: "Monitoring",
+    // },
+    // {
+    //   img: "farm-comm.png",
+    //   title: "Farmer Community",
+    //   desc: "Connect & share knowledge",
+    //   link: "https://example.com/farmer-community",
+    //   external: true,
+    // },
   ];
 
   return (
-    <div className="bg-white pt-[7vh] pb-9">
+    <div className="bg-white pt-[9.2vh] pb-9">
       {/* Hero Section */}
       <div
         className="relative flex flex-col justify-center items-center bg-no-repeat bg-center bg-cover"
@@ -85,14 +85,14 @@ function Home() {
 
       {/* Introduction Section */}
       <div className="m-6 sm:m-9 bg-white p-6 sm:p-9 text-justify rounded-2xl shadow-xl">
-        <p className="text-green-800 text-sm sm:text-base">
+        <p className="text-black text-sm sm:text-base">
           India’s farmers face significant challenges in managing weeds, which
           reduce crop yields and increase labor costs. Many farmers lack accurate
           information on which weeds affect their crops, the right herbicides to
           use, and why insecticides are ineffective against weeds.
         </p>
         <br />
-        <p className="text-green-800 text-sm sm:text-base">
+        <p className="text-black text-sm sm:text-base">
           Weeds are causing ₹92,000 crore ($11 billion) worth of loss in crop
           productivity each year, according to a study commissioned by the
           Federation of Seed Industry of India (FSII), carried out by experts
@@ -119,9 +119,9 @@ function Home() {
                 <div className="w-full h-48 sm:h-64">
                   <img src={item.img} alt={item.title} className="w-full h-full object-cover" />
                 </div>
-                <div className="p-4 text-center bg-[#123524]">
-                  <h1 className="font-semibold text-lg sm:text-xl text-white">{item.title}</h1>
-                  <p className="text-stone-100 text-sm sm:text-base">{item.desc}</p>
+                <div className="p-4 text-center ">
+                  <h1 className="font-semibold text-lg sm:text-xl text-black">{item.title}</h1>
+                  <p className="text-green-900 text-sm sm:text-base">{item.desc}</p>
                 </div>
               </a>
             ) : (
@@ -133,9 +133,9 @@ function Home() {
                 <div className="w-full h-48 sm:h-64">
                   <img src={item.img} alt={item.title} className="w-full h-full object-cover" />
                 </div>
-                <div className="p-4 text-center bg-[#123524]">
-                  <h1 className="font-semibold text-lg sm:text-xl text-white">{item.title}</h1>
-                  <p className="text-stone-100 text-sm sm:text-base">{item.desc}</p>
+                <div className="p-4 text-center ">
+                  <h1 className="font-semibold text-lg sm:text-xl text-black">{item.title}</h1>
+                  <p className="text-green-900 text-sm sm:text-base">{item.desc}</p>
                 </div>
               </Link>
             )

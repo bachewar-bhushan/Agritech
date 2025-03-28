@@ -54,10 +54,10 @@ function Navbar() {
         {/* Desktop Menu */}
         <ul className="hidden md:flex space-x-8 text-white font-medium">
           <Link to="/home"><li className="hover:text-yellow-300 transition">Home</li></Link>
-          <Link to="/hardware"><li className="hover:text-yellow-300 transition">Components</li></Link>
-          <Link to="/Monitoring"><li className="hover:text-yellow-300 transition">Farm Monitoring</li></Link>
+          <Link to="/hardware"><li className="hover:text-yellow-300 transition">AgriTech WeedOBot</li></Link>
+          {/* <Link to="/Monitoring"><li className="hover:text-yellow-300 transition">Farm Monitoring</li></Link> */}
           <Link to="/weed-herbicide-guide"><li className="hover:text-yellow-300 transition">Herbicide Guide</li></Link>
-          <Link to="/govt-notification"><li className="hover:text-yellow-300 transition">Govt Notification</li></Link>
+          <Link to="/govt-schemes-updates"><li className="hover:text-yellow-300 transition">Govt Schemes & Updates</li></Link>
         </ul>
 
         {/* Language Dropdown */}
@@ -108,7 +108,7 @@ function Navbar() {
             <Link to="/hardware" onClick={() => setMenuOpen(false)}><li className="py-2 hover:bg-green-600">Components</li></Link>
             <Link to="/Monitoring" onClick={() => setMenuOpen(false)}><li className="py-2 hover:bg-green-600">My Farm & Bot</li></Link>
             <Link to="/weed-herbicide-guide" onClick={() => setMenuOpen(false)}><li className="py-2 hover:bg-green-600">Herbicide Guide</li></Link>
-            <Link to="/govt-notification" onClick={() => setMenuOpen(false)}><li className="py-2 hover:bg-green-600">Govt Notification</li></Link>
+            <Link to="/govt-schemes-updates" onClick={() => setMenuOpen(false)}><li className="py-2 hover:bg-green-600">Govt Notification</li></Link>
           </ul>
         </div>
       )}

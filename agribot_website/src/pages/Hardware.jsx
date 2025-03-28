@@ -1,60 +1,96 @@
+import React from "react";
+import { ShieldCheck, Eye, Cpu, Move3D, Zap, Handshake, Droplet, Joystick, Leaf, Settings } from "lucide-react";
 
+const features = [
+  {
+    icon: <Eye className="w-12 h-12 text-green-700" />,
+    title: "Advanced Weed Detection",
+    description: "Our bot intelligently distinguishes between crops and unwanted weeds, ensuring precise and effective weed removal."
+  },
+  {
+    icon: <Cpu className="w-12 h-12 text-green-700" />,
+    title: "Smart Navigation",
+    description: "Equipped with an intelligent path-following system, it autonomously navigates your farm for maximum efficiency."
+  },
+  {
+    icon: <Move3D className="w-12 h-12 text-green-700" />,
+    title: "Precision Weed Removal",
+    description: "Targets and eliminates weeds with pinpoint accuracy, minimizing damage to crops."
+  },
+  {
+    icon: <ShieldCheck className="w-12 h-12 text-green-700" />,
+    title: "Rugged & Reliable",
+    description: "Built to withstand tough agricultural environments, ensuring long-lasting performance."
+  },
+  {
+    icon: <Droplet className="w-12 h-12 text-green-700" />,
+    title: "Smart Irrigation",
+    description: "Automated irrigation system that ensures optimal water usage, reducing waste and improving crop health."
+  },
+  {
+    icon: <Joystick className="w-12 h-12 text-green-700" />,
+    title: "Manual Control",
+    description: "Switch to manual mode anytime for direct control, offering flexibility in various farming operations."
+  },
+  {
+    icon: <Leaf className="w-12 h-12 text-green-700" />,
+    title: "Eco-Friendly",
+    description: "Reduces chemical herbicide usage, promoting a healthier and more sustainable farming environment."
+  },
+  {
+    icon: <Settings className="w-12 h-12 text-green-700" />,
+    title: "Customizable Operations",
+    description: "Adjust settings based on farm requirements for a personalized farming experience."
+  }
+];
 
-export default function Hardware() {
-    const components = [
-        { name: "Microcontroller Raspberry Pi 5", img: "/raspbery.png" },
-        { name: "ESP 32", img: "/esp32.png" },
-        { name: "LoRa", img: "/lora.png" },
-        { name: "GPS Sensor", img: "/gps.png" },
-        { name: "Hub Motor", img: "/hub-motor.png" },
-        { name: "Magnetometer", img: "/magnetometer.png" },
-        { name: "IMU Module", img: "/imu-module.png" },
-        { name: "Spray Component", img: "/spray-component.png" },
-        { name: "Li-ion Battery", img: "/lion-battery.png" },
-    ];
+const Hardware = () => {
+  return (
+    <div className="container mx-auto pt-[12vh] px-12 pb-9 ">
+      {/* Overview Section */}
+      <div className="text-center mb-16">
+        <h1 className="mt-9 font-black text-4xl flex items-center justify-center mb-9">Revolutionizing Smart Farming</h1>
+        <p className="text-lg text-gray-700 max-w-3xl mx-auto">
+          Introducing our next-generation Weed Detection Bot (WeedOBot) – an advanced agricultural assistant designed to 
+          automate weed removal, optimize irrigation, and enhance productivity. Say goodbye to labor-intensive farming 
+          and hello to precision-driven automation!
+        </p>
+      </div>
 
-    return (
-        <div className="w-full min-h-screen bg-gray-900 text-white pt-[12vh] font-[\'Shadow Into Light\']">
-            {/* Top Section with Two Partitions */}
-            <div className="container mx-auto flex flex-col md:flex-row items-center justify-between py-8 md:py-12 px-4 md:px-6 space-y-6 md:space-y-0">
-                {/* Left Section - Heading */}
-                <div className="w-full md:w-1/2 text-center md:text-left space-y-4 order-2 md:order-1">
-                    <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold leading-tight">
-                        Hardware Components
-                    </h1>
-                    <p className="text-base md:text-lg lg:text-2xl mt-2 md:mt-4 text-gray-300 leading-relaxed">
-                        Explore the key parts that power our bot
-                    </p>
-                </div>
-                {/* Right Section - Hero Image */}
-                <div className="w-full md:w-1/2 flex justify-center order-1 md:order-2 mb-6 md:mb-0">
-                    <img
-                        src="/bot-hero.jpg"
-                        alt="Bot Hero Image"
-                        className="w-full md:w-auto h-auto max-w-full md:max-w-md lg:max-w-lg object-contain rounded-lg shadow-xl"
-                    />
-                </div>
-            </div>
+      {/* Key Features Section */}
+      <h2 className="text-4xl font-bold text-center mb-10 text-green-800">Key Functionalities</h2>
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        {features.map((feature, index) => (
+          <div key={index} className="bg-white shadow-lg rounded-xl p-6 border border-gray-200 text-center hover:shadow-2xl transition-transform transform hover:-translate-y-2">
+            <div className="flex justify-center mb-4">{feature.icon}</div>
+            <h3 className="text-2xl font-semibold text-green-900 mb-2">{feature.title}</h3>
+            <p className="text-gray-700">{feature.description}</p>
+          </div>
+        ))}
+      </div>
 
-            {/* Hardware Components Grid */}
-            <div className="container mx-auto px-4 py-10">
-                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-                    {components.map((component, index) => (
-                        <div key={index} className="flex justify-center transform hover:scale-105 transition duration-300">
-                            <div className="bg-gray-800 shadow-lg rounded-xl overflow-hidden w-80">
-                                <img
-                                    src={component.img}
-                                    alt={component.name}
-                                    className="w-full h-48 object-cover"
-                                />
-                                <div className="p-4 text-center">
-                                    <h3 className="text-xl font-semibold">{component.name}</h3>
-                                </div>
-                            </div>
-                        </div>
-                    ))}
-                </div>
-            </div>
-        </div>
-    );
-}
+      {/* Why Choose Us Section */}
+      <div className="mt-16 bg-green-100 p-10 rounded-xl text-center shadow-md">
+        <h2 className="text-4xl font-bold text-green-900">Why Choose Our WeedOBot?</h2>
+        <p className="text-lg text-gray-800 mt-4 max-w-3xl mx-auto">
+          Unlike traditional farming methods, our bot leverages AI-driven precision, automation, and efficiency.
+          It operates tirelessly, reducing the need for herbicides, lowering labor costs, and increasing farm yield.
+          With real-time adaptability and low maintenance, it's the perfect partner for modern agriculture.
+        </p>
+      </div>
+
+      {/* Call to Action */}
+      <div className="mt-16 text-center">
+        <h2 className="text-4xl font-bold text-green-900">Upgrade Your Farm Today</h2>
+        <p className="text-lg text-gray-700 max-w-2xl mx-auto mt-3">
+          Explore how our AI-powered Weed Detection Bot can transform your farming experience. Reach out now to learn more or request a demo.
+        </p>
+        <button className="mt-8 px-8 py-4 bg-green-700 text-white rounded-xl text-lg font-semibold hover:bg-green-800 transition transform hover:scale-105">
+          Request a Demo
+        </button>
+      </div>
+    </div>
+  );
+};
+
+export default Hardware;

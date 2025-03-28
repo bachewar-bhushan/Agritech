@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const MONGO_URI = "";
+const MONGO_URI = "mongodb+srv://bachewarbhushan:t0u9fJRCDo2bklwx@cluster0.iogqgw0.mongodb.net/agri-tech?retryWrites=true&w=majority";
 
 const connectDB = async () => {
     try {

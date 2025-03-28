@@ -11,9 +11,9 @@ const Schemes = () => {
     const fetchSchemes = async () => {
       try {
         const [nabardResponse, jansamarthResponse] = await Promise.all([
-          axios.get("http://localhost:9000/api/scrapper_route/scrape-nabard"),
+          axios.get("/api/scrapper_route/scrape-nabard"),
           axios.get(
-            "http://localhost:9000/api/scrapper_route/govt-schemes-jansamarth"
+            "/api/scrapper_route/govt-schemes-jansamarth"
           ),
         ]);
 
